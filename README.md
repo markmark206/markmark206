@@ -1,4 +1,4 @@
-I 💚 creating software and riding my bike. ✊🏽
+I 💚💙💛 creating software and riding my bike. ✊🏽
 <!--
 **markmark206/markmark206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
