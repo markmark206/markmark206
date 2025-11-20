@@ -4,7 +4,7 @@ I 💚 💙💛 creating software and riding my bike. ✊🏽
 
 Some current and recent projects:
 
-* Journey: Durable Workflows as a Package
+* Journey: Durable Workflows as a[n Elixir] Package
 
     https://github.com/markmark206/journey | https://hexdocs.pm/journey | https://gojourney.dev/
 
