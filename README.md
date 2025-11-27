@@ -6,9 +6,11 @@ Some current and recent projects:
 
 * Journey: Durable Workflows as a[n Elixir] Package
 
-    https://github.com/markmark206/journey | https://hexdocs.pm/journey | https://gojourney.dev/
+    https://github.com/markmark206/journey | https://hexdocs.pm/journey
 
-* Build-key infrastructure, for managing and build-time validation of build keys (used by Journey, https://gojourney.dev/)
+* Build-key infrastructure, for managing and build-time validation of build keys (used by Journey)
+
+    https://github.com/<private> |  https://gojourney.dev/
 
 ```
 ~/src/ooshki26 $ env | grep JOURNEY_BUILD_KEY
@@ -33,7 +35,7 @@ Compiling 51 files (.ex)
 
 *  Ooshki26: a (Journey-based) application for managing social commitments
 
-   https://26.ooshki.org
+   https://github.com/<private> | https://26.ooshki.org
 
    (currently in private beta)
    
