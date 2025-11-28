@@ -1,4 +1,4 @@
-I 💚 💙💛 creating software and riding my bike. ✊🏽
+I 💙💛 creating software and riding my bike. ✊🏽
 
 ----
 
