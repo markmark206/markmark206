@@ -8,7 +8,27 @@ Some current and recent projects:
 
     https://github.com/markmark206/journey | https://hexdocs.pm/journey
 
-* Build-key infrastructure, for managing and build-time validation of build keys (used by Journey)
+
+```
+iex> # https://...hello.fi/e/EXEC16VJ7...
+iex> execution = Journey.load("EXEC16VJ7...")
+iex> Journey.values(execution)
+%{
+  name: "Moomin"
+}
+
+iex> Journey.set(execution, :email_address, "moomin@valley.fi")
+"Welcome, Moomin at moomin@thevalley.fi"
+
+iex> Journey.values(execution)
+%{
+  name: "Moomin",
+  email_address: "moomin@thevalley.fi",
+  greeting: "Welcome, Moomin at moomin@thevalley.fi"
+}
+```
+
+* Build-key infrastructure, for managing build keys and build-time validation of build keys (used by Journey)
 
     `https://github.com/<private>` |  https://gojourney.dev/
 
