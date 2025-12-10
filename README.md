@@ -51,7 +51,7 @@ Compiling 51 files (.ex)
 
 * JourDash: a goofy Journey-based "food" "delivery" play-demo
 
-    https://github.com/markmark206/jourdash | https://jourdash.demo.gojourney.dev
+    https://github.com/markmark206/jour_dash | https://jourdash.gojourney.dev
 
 *  Ooshki26: a (Journey-based) application for managing social commitments
 
