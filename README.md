@@ -6,7 +6,7 @@ Some current and recent projects:
 
 * Journey: Durable Workflows as a[n Elixir] Package
 
-    https://github.com/markmark206/journey | https://hexdocs.pm/journey
+    https://github.com/shipworthy/journey | https://hexdocs.pm/journey
 
 
 ```
@@ -51,7 +51,7 @@ Compiling 51 files (.ex)
 
 * JourDash: a goofy Journey-based "food" "delivery" play-demo
 
-    https://github.com/markmark206/jour_dash | https://jourdash.gojourney.dev
+    https://github.com/shipworthy/jour_dash | https://jourdash.gojourney.dev
 
 *  Ooshki26: a (Journey-based) application for managing social commitments
 
