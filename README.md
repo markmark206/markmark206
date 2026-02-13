@@ -55,9 +55,7 @@ Compiling 51 files (.ex)
 
 *  Ooshki26: a (Journey-based) application for managing social commitments
 
-   `https://github.com/<private>` | https://26.ooshki.org
-
-   (currently in private beta)
+   `https://github.com/<private>` | https://ooshki.org
    
 ...
 
